@@ -1,0 +1,158 @@
+{
+    "status": {
+        "timestamp": "2020-08-25T22:24:16.060Z",
+        "error_code": 0,
+        "error_message": null,
+        "elapsed": 26,
+        "credit_count": 1,
+        "notice": null
+    },
+    "data": {
+        "BTC": {
+            "id": 1,
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "slug": "bitcoin",
+            "num_market_pairs": 8696,
+            "date_added": "2013-04-28T00:00:00.000Z",
+            "tags": ["mineable", "pow", "sha-256", "store-of-value", "state-channels"],
+            "max_supply": 21000000,
+            "circulating_supply": 18470856,
+            "total_supply": 18470856,
+            "is_active": 1,
+            "platform": null,
+            "cmc_rank": 1,
+            "is_fiat": 0,
+            "last_updated": "2020-08-25T22:23:31.000Z",
+            "quote": {
+                "EUR": {
+                    "price": 9623.527026340924,
+                    "volume_24h": 21958302582.89148,
+                    "percent_change_1h": 0.47897813,
+                    "percent_change_24h": -3.55505644,
+                    "percent_change_7d": -4.37891843,
+                    "market_cap": 177754781915.65143,
+                    "last_updated": "2020-08-25T22:23:00.000Z"
+                }
+            }
+        },
+        "ETH": {
+            "id": 1027,
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "slug": "ethereum",
+            "num_market_pairs": 5581,
+            "date_added": "2015-08-07T00:00:00.000Z",
+            "tags": ["mineable", "pow", "ethash", "medium-of-exchange", "crowdfunding", "smart-contracts"],
+            "max_supply": null,
+            "circulating_supply": 112331379.749,
+            "total_supply": 112331379.749,
+            "is_active": 1,
+            "platform": null,
+            "cmc_rank": 2,
+            "is_fiat": 0,
+            "last_updated": "2020-08-25T22:23:26.000Z",
+            "quote": {
+                "EUR": {
+                    "price": 324.44292007109146,
+                    "volume_24h": 10492469772.346445,
+                    "percent_change_1h": 0.7305438,
+                    "percent_change_24h": -5.84756818,
+                    "percent_change_7d": -8.88860249,
+                    "market_cap": 36445120861.38023,
+                    "last_updated": "2020-08-25T22:23:00.000Z"
+                }
+            }
+        },
+        "LTC": {
+            "id": 2,
+            "name": "Litecoin",
+            "symbol": "LTC",
+            "slug": "litecoin",
+            "num_market_pairs": 642,
+            "date_added": "2013-04-28T00:00:00.000Z",
+            "tags": ["mineable", "pow", "scrypt", "medium-of-exchange"],
+            "max_supply": 84000000,
+            "circulating_supply": 65315636.8115159,
+            "total_supply": 65315636.8115159,
+            "is_active": 1,
+            "platform": null,
+            "cmc_rank": 7,
+            "is_fiat": 0,
+            "last_updated": "2020-08-25T22:23:02.000Z",
+            "quote": {
+                "EUR": {
+                    "price": 49.36897380018628,
+                    "volume_24h": 2216059878.1239767,
+                    "percent_change_1h": 0.22730546,
+                    "percent_change_24h": -6.34295586,
+                    "percent_change_7d": -11.09300769,
+                    "market_cap": 3224565962.4902105,
+                    "last_updated": "2020-08-25T22:23:00.000Z"
+                }
+            }
+        },
+        "OMG": {
+            "id": 1808,
+            "name": "OMG Network",
+            "symbol": "OMG",
+            "slug": "omg",
+            "num_market_pairs": 232,
+            "date_added": "2017-07-14T00:00:00.000Z",
+            "tags": ["medium-of-exchange", "payments", "state-channels"],
+            "max_supply": null,
+            "circulating_supply": 140245398.245133,
+            "total_supply": 140245398.245133,
+            "platform": {
+                "id": 1027,
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "slug": "ethereum",
+                "token_address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
+            },
+            "is_active": 1,
+            "cmc_rank": 29,
+            "is_fiat": 0,
+            "last_updated": "2020-08-25T22:23:05.000Z",
+            "quote": {
+                "EUR": {
+                    "price": 4.442524585741817,
+                    "volume_24h": 664138519.5248662,
+                    "percent_change_1h": 1.37405104,
+                    "percent_change_24h": -11.95339448,
+                    "percent_change_7d": 93.97515158,
+                    "market_cap": 623043629.7411559,
+                    "last_updated": "2020-08-25T22:23:00.000Z"
+                }
+            }
+        },
+        "XRP": {
+            "id": 52,
+            "name": "XRP",
+            "symbol": "XRP",
+            "slug": "xrp",
+            "num_market_pairs": 593,
+            "date_added": "2013-08-04T00:00:00.000Z",
+            "tags": ["medium-of-exchange", "enterprise-solutions"],
+            "max_supply": 100000000000,
+            "circulating_supply": 44942589751,
+            "total_supply": 99990900966,
+            "is_active": 1,
+            "platform": null,
+            "cmc_rank": 3,
+            "is_fiat": 0,
+            "last_updated": "2020-08-25T22:23:05.000Z",
+            "quote": {
+                "EUR": {
+                    "price": 0.23457385781067855,
+                    "volume_24h": 1187701005.7514894,
+                    "percent_change_1h": 0.56003986,
+                    "percent_change_24h": -4.23511987,
+                    "percent_change_7d": -7.9633423,
+                    "market_cap": 10542356657.894733,
+                    "last_updated": "2020-08-25T22:23:00.000Z"
+                }
+            }
+        }
+    }
+}

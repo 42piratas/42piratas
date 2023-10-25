@@ -2,7 +2,7 @@
 
 I have been proudly helping to build the [Decentralized Internet](https://www.mozilla.org/en-US/about/manifesto/) and a [better home of mind](https://www.eff.org/cyberspace-independence) at the [AKASHA Foundation](https://akasha.org/).
 
-Check [AKASHA.org](https://akasha.org/), [@AKASHA](https://twitter.com/AKASHAorg), [AKASHA Hub Barcelona](https://akasha.org/hub-bcn/), and [@AKASHAworldBCN](https://twitter.com/AKASHAworldBCN).
+Check [AKASHA.org](https://akasha.org/), [@AKASHA](https://twitter.com/AKASHAorg), [Hub Barcelona](https://akasha.org/hub-bcn/), and [@AKASHAworldBCN](https://twitter.com/AKASHAworldBCN).
 
 I also contribute to [Mozilla](https://www.mozilla.org/en-US/), [Ubuntu](https://ubuntu.com/), and Tor [Project](https://www.torproject.org/), among other social and cultural initiatives.
 

@@ -4,7 +4,7 @@ I have been proudly helping to build the [Decentralized Internet](https://www.mo
 
 Check [AKASHA.org](https://akasha.org/), [@AKASHA](https://twitter.com/AKASHAorg), [Hub Barcelona](https://akasha.org/hub-bcn/), and [@AKASHAworldBCN](https://twitter.com/AKASHAworldBCN).
 
-In my free time, I contribute to OSS, social, and cultural initiatives, including [Mozilla](https://www.mozilla.org/en-US/), [Ubuntu](https://ubuntu.com/), and Tor [Project](https://www.torproject.org/).
+In my free time, I contribute to OSS, social, and cultural initiatives, including [Mozilla](https://www.mozilla.org/en-US/), [Ubuntu](https://ubuntu.com/), and [Tor Project](https://www.torproject.org/).
 
 For fun, [I write and craft random stuff](https://42piratas.com/).
 
